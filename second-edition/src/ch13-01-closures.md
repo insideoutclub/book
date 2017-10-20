@@ -357,7 +357,7 @@ parameter and return value types in the closure</span>
 
 The syntax of closures and functions looks more similar with type annotations.
 Here’s a vertical comparison of the syntax for the definition of a function
-that adds one to its parameter, and a closure that has the same behavior. We’ve
+that adds one to its parameter, and a closure that has the same behavior. (We’ve
 added some spaces here to line up the relevant parts). This illustrates how
 closure syntax is similar to function syntax, except for the use of pipes and
 the amount of syntax that is optional:
